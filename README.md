@@ -7,9 +7,9 @@
 ## 📈 Estatísticas do GitHub
 
 <div>
-  <a href="https://github.com/Maurilio_Carmo">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maurilio-Carmo&show_icons=true&theme=dark" alt="GitHub Stats"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurilio-Carmo&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
+  <a href="https://github.com/AlessandroSampaio">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlessandroSampaio&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroSampaio&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
   </a>
 </div>
 
@@ -18,10 +18,11 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 20 px;">
+  <img align="center" alt="React" height="50" width="50" src="icons/react.svg" />    
   <img align="center" alt="C#" height="50" width="50" src="icons/csharp.svg" />
-  <img align="center" alt="HTML" height="50" width="50" src="icons/html5.svg"/>
-  <img align="center" alt="CSS" height="50" width="50" src="icons/css3.svg"/>
-  <img align="center" alt="Bash" height="50" width="50" src="icons/bash.svg"/>
+  <img align="center" alt="Remix" height="50" width="50" src="icons/react-router.svg"/>
+  <img align="center" alt="Tailwind" height="50" width="50" src="icons/tailwindcss.svg"/>
+  <img align="center" alt="Java" height="50" width="50" src="icons/java.svg"/>
 </div>
 
 ---
